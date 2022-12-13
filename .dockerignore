@@ -1,0 +1,17 @@
+.git*
+Jenkinsfile*
+chart
+Dockerfile*
+docker-compose*
+Makefile*
+*.md
+/build
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
